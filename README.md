@@ -11,7 +11,7 @@ Data collection and exploration
 
 Text preprocessing
 
-Feature extraction
+Feature extraction/Feature Engineering
 
 Model training and evaluation
 
